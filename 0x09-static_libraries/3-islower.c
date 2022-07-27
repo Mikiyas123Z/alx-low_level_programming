@@ -22,7 +22,3 @@ int _islower(int c)
 	}
 	return (i);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-

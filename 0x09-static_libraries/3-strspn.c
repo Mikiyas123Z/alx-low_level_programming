@@ -37,7 +37,3 @@ unsigned int _strspn(char *s, char *accept)
 	}
 	return (bytes);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-
